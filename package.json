@@ -1,0 +1,27 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "ast抽象语法树",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiendo/ast.git"
+  },
+  "keywords": [
+    "ast"
+  ],
+  "author": "daiend",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiendo/ast/issues"
+  },
+  "homepage": "https://github.com/daiendo/ast#readme",
+  "devDependencies": {
+    "webpack": "^5.17.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
